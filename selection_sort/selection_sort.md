@@ -15,7 +15,7 @@ make
 
 ## Authors
 
-* **Erica Bertann**
+* **Erica Bertan**
 
 ## Referências
 
